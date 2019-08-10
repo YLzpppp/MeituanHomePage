@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #F8F8F8;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-family: "-apple-system",BlinkMacSystemFont,Roboto,"Helvetica Neue","MIcrosoft YaHei",sans-serif!important;
+}
+a{
+    text-decoration: none;
+    color: #666666;
+}
+a:hover{
+    color: rgb(255,162,66);
+}
